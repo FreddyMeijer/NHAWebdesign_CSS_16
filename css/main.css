@@ -1,0 +1,192 @@
+header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #6f9cb3;
+}
+
+nav {
+  float: left;
+  font-size: large;
+}
+
+nav a {
+  display: block;
+  font-family: Verdana;
+  color: #fddbc0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #fddbc0;
+  color: #6f9cb3;
+}
+
+.intro {
+  min-height: 200px;
+}
+
+.intro img {
+  float: left;
+}
+
+p {
+  font-size: small;
+}
+
+footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-color: #6f9cb3;
+  clear: both;
+}
+
+body {
+  font-family: Verdana;
+  background-color: rgb(253, 219, 192, 0.10) ;
+}
+
+p {
+  padding-left: 10px;
+}
+
+h1 {
+  color: #fddbc0;
+  padding-left: 10px;
+}
+
+h2 {
+  color: #fddbc0;
+}
+
+#left_banner_we {
+  background-color: #6f9cb3;
+  color: #fddbc0;
+  padding: 10px;
+  width: 175px;
+  font-size: small;
+}
+
+#right_banner_we {
+  background-color: #fddbc0;
+  color: #6f9cb3;
+  padding: 10px;
+  width: 1240px;
+  font-size: small;
+}
+
+#scheiding {
+  height: 20px;
+}
+
+#scheiding_kolom {
+  width: 20px;
+}
+
+.intro {
+  height: 200px;
+}
+
+.intro img {
+  float: left;
+}
+
+a {
+  color: #fddbc0;
+}
+
+#cert {
+  color: #6f9cb3;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  padding-right: 25px;
+  display: block;
+}
+
+#copyright {
+  display: block;
+  font-family: Verdana;
+  font-size: small;
+  color: #fddbc0;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="textarea"] {
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  outline: 2px solid #fddbc0;
+  width: 200px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: inset 2px 2px 5px #fddbc0;
+  font-size: small;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="textarea"]:focus {
+  background-color: #fddbc0;
+  outline: 2px solid #6f9cb3;
+  border-radius: 4px;
+  box-shadow: inset 2px 2px 5px #6f9cb3;
+}
+
+input[type="textarea"] {
+  height: 4em;
+}
+
+button {
+  background-color: #fddbc0;
+  border: none;
+  width: 220px;
+  height: 50px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+button:active {
+  background-color: #6f9cb3;
+}
+
+.opleidingen,
+.certificaten {
+  float: left;
+  display: block;
+  padding: 10px;
+  font-size: small;
+}
+
+#left_banner {
+  background-color: #6f9cb3;
+  color: #fddbc0;
+  padding: 10px;
+  width: 175px;
+  font-size: small;
+}
+
+#right_banner {
+  background-color: #fddbc0;
+  color: #6f9cb3;
+  padding: 10px;
+  width: 500px;
+  font-size: small;
+}
+
+.werkervaring {
+  padding-left: 10px;
+  font-size: small;
+}
